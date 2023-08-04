@@ -2,7 +2,6 @@
 
 The objective of the project is to develop a model which can be used to detect face masks in a group of people to prevent Covid-19. In the middle of Covid-19 crisis, wearing masks is a fundamental need nowadays. In public places because of the large volume of people it becomes tough for security officials to check every person who is not wearing a mask. This model detects a single person wearing a mask or not. The model is implemented using a webcam where the video is read by frame and resized as necessary. This project helps in identifying people who are not wearing a face mask.
 
-
 List of Libraries & Models:
 •	tensorflow
 •	keras
